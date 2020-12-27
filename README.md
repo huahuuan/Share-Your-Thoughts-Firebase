@@ -9,12 +9,12 @@
 
 
 Connect with us at:
-Website: http://techferment.com/
-Twitter: https://twitter.com/TechFerment/
-Facebook: https://www.facebook.com/TechFerment/
-Instagram: https://instagram.com/TechFerment
-LinkedIn: https://www.linkedin.com/company/tech...
-GitHub: https://github.com/TechFerment
-Medium: https://medium.com/techferment
+1. Website: http://techferment.com/
+1. Twitter: https://twitter.com/TechFerment/
+1. Facebook: https://www.facebook.com/TechFerment/
+1. Instagram: https://instagram.com/TechFerment
+1. LinkedIn: https://www.linkedin.com/company/tech...
+1. GitHub: https://github.com/TechFerment
+1. Medium: https://medium.com/techferment
 
 #TechFerment
